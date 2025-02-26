@@ -1,4 +1,4 @@
-# BAYMAX-GUI: Medical Robot Arm Control System
+# BAYMAX-INTEGRATED-GUI: Medical Robot Arm Control System
 
 A computer vision-powered robotic arm control system for medical applications. This system uses deep learning to segment and identify acute traumatic injuries and provides precise robotic arm positioning to target specific points of interest.
 
@@ -123,9 +123,8 @@ The system sends calculated joint positions to an Arduino:
 4. **Arm Positioning**: The system will calculate and display optimal arm positions for the selected target
 5. **Hardware Control**: When connected, joint positions will be sent to the Arduino to move the physical arm
 
-## Key Files
+## Key Functions
 
-- `main.py`: Main application entry point
 - `process_frame()`: Computer vision and segmentation functions
 - `jacobian_inverse_kinematics()`: Core inverse kinematics solver
 - `forward_kinematics()`: Forward kinematics calculations
@@ -141,16 +140,25 @@ The system sends calculated joint positions to an Arduino:
 - Multiple wound tracking and prioritization
 - Teleoperation capabilities
 
+## Prototype.v3 
+- 3D Printed Components
+
+![IMG_1767](https://github.com/user-attachments/assets/4dcbf297-e80d-4c4e-b216-fc11013e3dbc)
+
+![IMG_1768](https://github.com/user-attachments/assets/acc3c2d8-fec6-4f9b-85dd-8b2737f55bf6)
+
+
+![IMG_1769 2](https://github.com/user-attachments/assets/a13500ec-9699-4ce5-934f-9df5ef30b8e9)
+
+![IMG_1770](https://github.com/user-attachments/assets/5723702f-41dd-48ac-9d53-e697d48998d3)
+
+  
+
 ## License
 
-[Your license information here]
+[MIT]
 
-## Acknowledgments
 
-- This project utilizes custom implementations of segmentation models, inverse kinematics, and hardware control systems
-- Development supported by [your affiliations/acknowledgments]
-
-## DEMO SAMPLES BELOW
 ## NSFW WARNING: TEST SAMPLES USED HERE ARE IMAGES OF REAL OPEN WOUNDS CONTAINING BLOOD
 
 <img width="913" alt="Screenshot 2025-02-26 at 5 20 23 AM" src="https://github.com/user-attachments/assets/abdc0b96-5b53-4b73-9a18-efd4d563cbcb" />
