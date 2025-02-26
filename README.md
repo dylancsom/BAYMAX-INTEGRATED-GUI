@@ -153,3 +153,10 @@ The system sends calculated joint positions to an Arduino:
 
 - This project utilizes custom implementations of segmentation models, inverse kinematics, and hardware control systems
 - Development supported by [your affiliations/acknowledgments]
+
+## DEMO SAMPLES BELOW
+## NSFW WARNING: TEST SAMPLES USED HERE ARE IMAGES OF REAL OPEN WOUNDS CONTAINING BLOOD
+
+<img width="913" alt="Screenshot 2025-02-26 at 5 20 23 AM" src="https://github.com/user-attachments/assets/abdc0b96-5b53-4b73-9a18-efd4d563cbcb" />
+<img width="911" alt="Screenshot 2025-02-26 at 5 21 29 AM" src="https://github.com/user-attachments/assets/bfa4726f-7d0a-444c-98a4-aeb67a8c394f" />
+<img width="916" alt="Screenshot 2025-02-26 at 5 23 03 AM" src="https://github.com/user-attachments/assets/8e8103f4-3538-4ba5-b7e1-d7819fb7c61e" />
