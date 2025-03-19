@@ -12,12 +12,11 @@ import math
 import time
 import serial
 import threading
-from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
-                           QHBoxLayout, QPushButton, QLabel, QStatusBar, QComboBox)
 from PyQt5.QtCore import Qt, QTimer
 from PyQt5.QtGui import QImage, QPixmap
-import cv2
-import numpy as np
+from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
+                           QHBoxLayout, QPushButton, QLabel, QStatusBar, QComboBox)
+
 
 # Model and weights
 background_ratio = 0.8
